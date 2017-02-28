@@ -14,6 +14,7 @@ def converte(time):
     for i in resultado:
         string += i + "\n"
     print(resultado)
+    print("Done.")
     return string
     
     
